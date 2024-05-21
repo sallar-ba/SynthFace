@@ -1,6 +1,7 @@
+fastapi
 torch
 torchvision
 torchaudio
 pillow
-transformers
 diffusers["torch"]
+transformers
